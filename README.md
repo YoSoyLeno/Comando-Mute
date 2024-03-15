@@ -1,3 +1,9 @@
 # Comando Mute
 
-<p>¡Este es un comando de <div class="mute-title"># Mute</div>!</p>
+<p>¡Este es un comando de <p class="mute-title">MUTE</p>!</p>
+
+<style>
+  .mute-title {
+    color: red;
+  } 
+</style>
