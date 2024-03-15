@@ -1,3 +1,3 @@
 # Comando Mute
 
-<p>¡Este es un comando de <p class="mute-title">MUTE</p>!</p> 
+Este es el comando MUTE para tu Bot de Discord hecho con Node.js
