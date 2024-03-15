@@ -1,2 +1,3 @@
-# Comando-Mute
-Este es un Comando Mute que muetara al Usuario selecionado 
+# Comando Mute
+
+<p>¡Este es un comando de <div class="mute-title">Mute</div>!</p>
